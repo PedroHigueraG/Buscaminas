@@ -12,5 +12,6 @@ Desarrollando el clasico juego de buscaminas en java, utilizando el IDE de intel
 
 ## Integrantes
 
-[Sebastián Gonzales] (https://github.com/Ghostian-gif)
-[Pedro Higuera] (https://github.com/PedroHigueraG)
+[Sebastián Gonzalez](https://github.com/Ghostian-gif)
+
+[Pedro Higuera](https://github.com/PedroHigueraG)
