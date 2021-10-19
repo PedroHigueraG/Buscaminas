@@ -1,6 +1,6 @@
 # Buscaminas
 
-Desarrollando el clasico juego de buscaminas en java, utilizando el IDE de intelliJEA IDEA.
+Desarrollando el clasico juego de buscaminas.
 
 ## Componentes
 
@@ -9,6 +9,8 @@ Desarrollando el clasico juego de buscaminas en java, utilizando el IDE de intel
 - Patron DAO
 - Programación Orientada a Objetos
 - Base de datos PostgreSQL
+- IDE de IntelliJ IDEA
+- Prototipado en figma
 
 ## Integrantes
 
