@@ -12,6 +12,10 @@ Desarrollando el clasico juego de buscaminas.
 - IDE de IntelliJ IDEA
 - Prototipado en figma
 
+## UML
+
+El diagrama de clases utilizado para este programa es el siguiente:
+
 ## Integrantes
 
 [Sebastián Gonzalez](https://github.com/Ghostian-gif)
