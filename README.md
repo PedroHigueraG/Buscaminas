@@ -16,6 +16,8 @@ Desarrollando el clasico juego de buscaminas.
 
 El diagrama de clases utilizado para este programa es el siguiente:
 
+<img src="assets/BuscaminaUML.png">
+
 ## Integrantes
 
 [Sebastián Gonzalez](https://github.com/Ghostian-gif)
